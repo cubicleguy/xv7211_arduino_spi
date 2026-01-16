@@ -1,0 +1,46 @@
+#######################################
+# Syntax Coloring Map For XV7211BB
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+XV7211_SPI	KEYWORD1
+SPI_EPSON_COM	KEYWORD1
+UnscaledData	KEYWORD1
+ScaledData	KEYWORD1
+InitOptions	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+getGyroSf	KEYWORD2
+getTempSf	KEYWORD2
+configPrint	KEYWORD2
+headerPrint	KEYWORD2
+scaledDataPrint	KEYWORD2
+unscaledDataPrint	KEYWORD2
+globalAngularRateRead	KEYWORD2
+getNormalAngularRate	KEYWORD2
+getTemperature	KEYWORD2
+initOptions	KEYWORD2
+registerDump	KEYWORD2
+sleepIn	KEYWORD2
+sleepOut	KEYWORD2
+softReset	KEYWORD2
+triggerDataLatch	KEYWORD2
+commandDataLatch	KEYWORD2
+begin	KEYWORD2
+SPItransfer	KEYWORD2
+regWrite8	KEYWORD2
+regRead8	KEYWORD2
+regRead16	KEYWORD2
+regRead24	KEYWORD2
+regReadNByte	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
