@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/cubicleguy/xv7211_arduino_spi,4,3
+/cubicleguy/xv7211_arduino_spi/blob/main/src/spi_com.cpp,2,1
+/cubicleguy/xv7211_arduino_spi/blob/main/src/xv7211_spi.h,2,1
+/cubicleguy/xv7211_arduino_spi/tree/devel,2,1
+/cubicleguy/xv7211_arduino_spi/blob/main/LICENSE,1,1
+/cubicleguy/xv7211_arduino_spi/blob/main/examples/xv7211bb_spi_sampling_single_gyro/xv7211bb_spi_sampling_single_gyro.ino,1,1
+/cubicleguy/xv7211_arduino_spi/blob/main/src/xv7211_regs.h,1,1
+/cubicleguy/xv7211_arduino_spi/blob/main/src/xv7211_spi.cpp,1,1
+/cubicleguy/xv7211_arduino_spi/branches,1,1
+/cubicleguy/xv7211_arduino_spi/compare/devel,1,1
